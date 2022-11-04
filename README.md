@@ -66,7 +66,8 @@ DON'T FORGET TO TICK THE BOX " ADD PYTHON TO PATH "
 
 2. Create a new text file on your desktop
 
-3.In the text file type and write (and change/ complete the path, first is for python, 2nd is for layer1.py); 
+3.In the text file type and write (and change/ complete the path, first is for python, 2nd is for layer1.py);
+
 "C:\Users\ **YOUR USER NAME** \AppData\Local\Programs\Python\Python310\python.exe" "C:\Users\ **YOUR USER NAME** \Desktop\layer1.py"
 
 4. Rename the file text by layer one.bat then just left-click in and it will run the program.
