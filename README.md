@@ -97,3 +97,6 @@ Or you can check other possibilities to get it here ; https://www.wikihow.com/Ch
 Again for the path of layer one, by default I wrote it's on the desktop, but you can put it where you want just change the path.
 
 "C:\Users\ **YOUR USER NAME** \Desktop\layer1.py"
+
+3.If it's still not running in .bat, it's possibly because you don't have installed libraries to run the script, here is a tutorial 
+https://www.youtube.com/watch?v=KdLyS_tAvjY
