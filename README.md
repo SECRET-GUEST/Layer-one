@@ -56,21 +56,21 @@ For advanced people ; https://pypi.org/project/auto-py-to-exe/#description
 
 ## For noobs ;
 
-###### 0. Download the files
+[ ] ###### 0. Download the files
 
-###### 1.a Download and install python here ; https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
+[ ] ###### 1.a Download and install python here ; https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
 
 DON'T FORGET TO TICK THE BOX " ADD PYTHON TO PATH "
 
-###### 1.b You can finalize this tutorial by right-clicking on layer1.py and select open with => python, but you can also ; 
+[ ] ###### 1.b You can finalize this tutorial by right-clicking on layer1.py and select open with => python, but you can also ; 
 
-###### 2. Create a new text file on your desktop
+[ ] ###### 2. Create a new text file on your desktop
 
-###### 3.In the text file type and write (and change/ complete the path, first is for python, 2nd is for layer1.py);
+[ ] ###### 3.In the text file type and write (and change/ complete the path, first is for python, 2nd is for layer1.py);
 
 "C:\Users\ **YOUR USER NAME** \AppData\Local\Programs\Python\Python310\python.exe" "C:\Users\ **YOUR USER NAME** \Desktop\layer1.py"
 
-###### 4. Rename the file text by layer one.bat then just left-click in and it will run the program.
+[ ] ###### 4. Rename the file text by layer one.bat then just left-click in and it will run the program.
 Btw you just probably create and run your first batch program.
 
 
