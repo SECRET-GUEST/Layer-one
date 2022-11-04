@@ -23,7 +23,7 @@ This little tool create a window to load a picture who will overlay everything, 
 Useful for **3D artists** who have to modelize with **layers** on software who are not giving this possibility, like **metahuman** from **unreal engine**, or else.
 Also for pc gamers who would like to reproduce people in game, but also for science, for improving other projects.
 
-Need some rework but it's still useful for now, btw I will not make an exe soon for this one.
+Need some rework but it's working now, btw I will NOT make a .exe soon for this one.
 The cause is every anti-malware will considere it like a virus because it could be, but let me explain ;
 
 The probleme come from the possibility of put the layer front of all windows, that also mean it could avoid you to use your desktop blocking the mouse or whatever.
@@ -46,7 +46,7 @@ The most boring issue you may encounter will be the problem of resize / re catch
 **You can catch back the window if you resize by clicking on the border top** 
 
 
-TO LAUNCH THE FILE ;
+#TO LAUNCH THE FILE ;
 
 As written before ; I will not make a .exe for reason enumerated.
 To launch the program easily you have some choices ; 
@@ -54,7 +54,7 @@ To launch the program easily you have some choices ;
 For advanced people ; https://pypi.org/project/auto-py-to-exe/#description
 
 
-**For noobs ;**
+##For noobs ;
 
 0. Download the files
 
@@ -88,7 +88,9 @@ Or you can check other possibilities to get it here ; https://www.wikihow.com/Ch
 
 
 2. Make sur you replaced the python path I wrote for example by the path where you have installed python without forget the Python.exe at end.
+
 "C:\Users\ **YOUR USER NAME** \AppData\Local\Programs\Python\Python310\python.exe"
 
 Again for the path of layer one, by default I wrote it's on the desktop, but you can put it where you want just change the path.
+
 "C:\Users\ **YOUR USER NAME** \Desktop\layer1.py"
