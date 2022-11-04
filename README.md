@@ -46,7 +46,7 @@ The most boring issue you may encounter will be the problem of resize / re catch
 **You can catch back the window if you resize by clicking on the border top** 
 
 
-#TO LAUNCH THE FILE ;
+# TO LAUNCH THE FILE ;
 
 As written before ; I will not make a .exe for reason enumerated.
 To launch the program easily you have some choices ; 
@@ -54,7 +54,7 @@ To launch the program easily you have some choices ;
 For advanced people ; https://pypi.org/project/auto-py-to-exe/#description
 
 
-##For noobs ;
+## For noobs ;
 
 0. Download the files
 
