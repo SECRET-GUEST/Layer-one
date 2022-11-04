@@ -98,5 +98,7 @@ Again for the path of layer one, by default I wrote it's on the desktop, but you
 
 "C:\Users\ **YOUR USER NAME** \Desktop\layer1.py"
 
-3.If it's still not running in .bat, it's possibly because you don't have installed libraries to run the script, here is a tutorial 
+3.If it's still not running in .bat, it's possibly because you don't have installed libraries to run the script, here is a tutorial for Pillow (it's furnished with Python but I already saw this bug so ...
 https://www.youtube.com/watch?v=KdLyS_tAvjY
+
+4.You must put the sad.png in the  same file with layer1.py or you will not be able to put your images in the 2nd window. You can also simply erase the icon part of the script because it's where the error will be generated (the programm dosen't find the icon).
