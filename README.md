@@ -45,13 +45,35 @@ For advanced people ; https://pypi.org/project/auto-py-to-exe/#description
 0. Download the files
 
 1. Download and install python here ; https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
+    DON'T FORGET TO TICK THE BOX " ** ADD PYTHON TO PATH ** "
 
 2. Create a new text file on your desktop
 
-3.In the text file type and write ; 
-"C:\Users\ **YOUR USER NAME** \AppData\Local\Programs\Python\Python310\python.exe" "C:\Users\**YOUR USER NAME**\Desktop\layer1.py"
+3.In the text file type and write (and change/ complete the path, first is for python, 2nd is for layer1.py); 
+"C:\Users\ **YOUR USER NAME** \AppData\Local\Programs\Python\Python310\python.exe" "C:\Users\ **YOUR USER NAME** \Desktop\layer1.py"
 
-4. Rename the file text by layer one.bat
+4. Rename the file text by layer one.bat then just left-click in and it will run the program.
+Btw you just probably create and run your first batch program.
 
 
+If these steps are not working, before smashing your screen with your keyboard, you maybe wants to take a look to the noobugs cat.
 
+```
+_  _ ____ ____ ___  _  _ ____ ____ 
+|\ | |  | |  | |__] |  | | __ [__  
+| \| |__| |__| |__] |__| |__] ___] 
+ ``` 
+ 
+1. To be able to rename in .bat, you have to verify if you can;
+You just have to open any file you want (Document or whatever) then go to display upside of the searchbar then tick the box asking you if you want to see the filename extextension
+
+![tuto](https://user-images.githubusercontent.com/92639080/199935818-8d4f9bcf-5eb0-4a0d-9cd5-1eeb11182880.png)
+
+Or you can check other possibilities to get it here ; https://www.wikihow.com/Change-a-File-Extension
+
+
+2. Make sur you replaced the python path I wrote for example by the path where you have installed python without forget the Python.exe at end.
+"C:\Users\ **YOUR USER NAME** \AppData\Local\Programs\Python\Python310\python.exe"
+
+Again for the path of layer one, by default I wrote it's on the desktop, but you can put it where you want just change the path.
+"C:\Users\ **YOUR USER NAME** \Desktop\layer1.py"
