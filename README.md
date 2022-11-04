@@ -56,7 +56,7 @@ For advanced people ; https://pypi.org/project/auto-py-to-exe/#description
 
 ## For noobs ;
 
-- [ ] 0. Download the files
+- [ ] 0. Download the files (at least layer1.py and sad.png)
 
 - [ ] 1.a Download and install python here ; https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
 
