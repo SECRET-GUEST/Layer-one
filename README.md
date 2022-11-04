@@ -1,3 +1,4 @@
+
 ```
 ██       █████  ██    ██ ███████ ██████       ██████  ███    ██ ███████ 
 ██      ██   ██  ██  ██  ██      ██   ██     ██    ██ ████   ██ ██      
@@ -5,6 +6,10 @@
 ██      ██   ██    ██    ██      ██   ██     ██    ██ ██  ██ ██ ██      
 ███████ ██   ██    ██    ███████ ██   ██      ██████  ██   ████ ███████ 
 ```
+
+![Capture d’écran 2022-11-04 104119](https://user-images.githubusercontent.com/92639080/199942076-513e5e92-0e92-4d68-992f-be0827ec2b80.jpg)
+
+
 ```
 ___  ____ ____ ____ ____ _ ___  ___ _ ____ _  _ 
 |  \ |___ [__  |    |__/ | |__]  |  | |  | |\ | 
@@ -33,6 +38,15 @@ ___ _  _ ___ ____ ____ _ ____ _
  |  |__|  |  |__| |  \ | |  | |___ 
                                    
 ```
+
+I will improve the code when I will have time, for the moment it has some little issue but it's stable so I don't really care.
+The most boring issue you may encounter will be the problem of resize / re catch the window.
+
+
+**You can catch back the window if you resize by clicking on the border top** 
+
+
+TO LAUNCH THE FILE ;
 
 As written before ; I will not make a .exe for reason enumerated.
 To launch the program easily you have some choices ; 
