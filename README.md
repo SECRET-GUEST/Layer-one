@@ -45,7 +45,7 @@ For advanced people ; https://pypi.org/project/auto-py-to-exe/#description
 0. Download the files
 
 1. Download and install python here ; https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
-    DON'T FORGET TO TICK THE BOX " ** ADD PYTHON TO PATH ** "
+    DON'T FORGET TO TICK THE BOX "  ADD PYTHON TO PATH "
 
 2. Create a new text file on your desktop
 
