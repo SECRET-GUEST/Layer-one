@@ -50,7 +50,7 @@ I listed 5 possibilities to launch the program;
 
 ## 1. Launch by click on Layer1.exe with confidence
 
-The first .exe file is a portable version made for windows 10 with auto-py-to-exe, you can only download this file and launch by click on it .
+The first .exe file is a portable version made for windows 10 with auto-py-to-exe, you can download only this file and nothing else.
 
 There is another one .exe in the folder named "Layer 1 exe".
 => You can download the entire folder and click on the Layer1.exe you will find inside.
