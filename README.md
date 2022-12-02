@@ -46,15 +46,34 @@ The most boring issue you may encounter will be the problem of resize / re catch
 **You can catch back the window if you resize by clicking on the border top** 
 
 
+
 # TO LAUNCH THE FILE ;
 
-As written before ; I will not make a .exe for reason enumerated.
-To launch the program easily you have some choices ; 
-
-For advanced people ; https://pypi.org/project/auto-py-to-exe/#description
+You have 3 possibilities ; 
 
 
-## For noobs ;
+## 1. Launch by click on Layer1.exe
+
+The first .exe file is a portable version made for windows 10, you can only download this and launch by click on it .
+
+
+## 2. Launch by Python
+
+"Python script" is directory with the original python script for python 3.10 / 3.11. 
+In case you have a lower version you may have to download pillow/ pywin32 or other module imported not included with your version
+
+If you want to launch it with python **YOU WILL NEED THE IMAGE SAD.png TO BE IN THE SAME DIRECTORY OF THE SCRIPT**.
+
+Also I made 2 versions, all is described in the name but here's a remember ;
+There is one prepared to be compiled with auto-py-to-exe who can't run, and another "layer1.pyw" you can launch whenever you want.
+The w in pyw is for launch the python script without the CMD but it's still a common python file.
+
+
+## 3. Compile yourself the python script (for windows 10) ;
+
+For this part you will need auto-py-to-exe, here is the link 
+ https://pypi.org/project/auto-py-to-exe/#description
+
 
 - [ ] 0. Download the files (at least layer1.py and sad.png)
 
