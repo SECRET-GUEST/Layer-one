@@ -23,7 +23,8 @@ This little tool create a window to load a picture who will overlay everything, 
 Useful for **3D artists** who have to modelize with **layers** on software who are not giving this possibility, like **metahuman** from **unreal engine**, or else.
 Also for pc gamers who would like to reproduce people in game, but also for science, for improving other projects.
 
-
+! THE SCRIPT IS MADE FOR WINDOWS 10 USERS !
+I'm using pywin32 for clicthrough so if you're a **Linux** or **Mac** user you will need to adjust the code for your system gl hf.
 
 ```
 ___ _  _ ___ ____ ____ _ ____ _    
@@ -95,15 +96,8 @@ In case you're a **MAC** or **Linux** user or just not prefere to not compile in
 
 "C:\Users\ **YOUR USER NAME** \AppData\Local\Programs\Python\Python310\python.exe" "C:\Users\ **YOUR USER NAME** \Desktop\layer1.py"
 
-- [ ] 4.b Rename the file text by layer one.bat then just left-click in and it will run the program.
+- [ ] 5. Rename the file text by layer one.bat then just left-click in and it will run the program.
 
-- [ ] 5. [MAC & LINUX]
-
-Here is a tutorial for Mac ;
-https://www.folkstalk.com/tech/python-to-mac-executable-with-code-examples/
-
-Here is a tutorial for Linux ;
-https://stackoverflow.com/questions/67235448/execute-python-script-in-console-via-bash-script-with-double-click
 
 
 
