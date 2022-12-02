@@ -24,7 +24,7 @@ Useful for **3D artists** who have to modelize with **layers** on software who a
 Also for pc gamers who would like to reproduce people in game, but also for science, for improving other projects.
 
 ! THE SCRIPT IS MADE FOR WINDOWS 10 USERS !
-I'm using pywin32 for clicthrough so if you're a **Linux** or **Mac** user you will need to adjust the code for your system gl hf.
+I'm using pywin32 for clicthrough so if you're a **Linux** or **Mac** user you will need to adjust the code for your system 🏋️‍♂️ gl hf 🏋️‍♂️
 
 ```
 ___ _  _ ___ ____ ____ _ ____ _    
@@ -43,7 +43,7 @@ The most boring issue you may encounter will be the problem of resize / re catch
 
 # TO LAUNCH THE FILE ;
 
-Because this script has no signature it could be detected as a malware so I made 3 versions who show you it's safu.
+Because this script has no official signature it could be detected as a malware so I made 3 versions who show you it's safu.
 
 I listed 5 possibilities to launch the program; 
 
