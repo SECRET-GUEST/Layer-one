@@ -44,7 +44,7 @@ The most boring issue you may encounter will be the problem of resize / re catch
 
 Because this script has no signature it could be detected as a malware so I made 3 versions who show you it's safu.
 
-Now you have 4 possibilities ; 
+I listed 5 possibilities to launch the program; 
 
 
 ## 1. Launch by click on Layer1.exe with confidence
@@ -77,23 +77,37 @@ The w in pyw is for launch the python script without the CMD but it's still a co
 
 DON'T FORGET TO TICK THE BOX " ADD PYTHON TO PATH "
 
-- [ ] 1.b Now you will need auto-py-to-exe, here is the link https://pypi.org/project/auto-py-to-exe/#description
+- [ ] 1.b You can finalize this tutorial by right-clicking on layer1.py and select open with => python, but you can also ; 
+
+- [ ] 2. Compile the file yourself
+
+Now you will need auto-py-to-exe, here is the link https://pypi.org/project/auto-py-to-exe/#description
 
 You just have to click on the autopytoexe.py after the download and follow instructions, don't forget to add sad.png by tick additionnal files or it will not work.
 
-- [ ] 1.c You can finalize this tutorial by right-clicking on layer1.py and select open with => python, but you can also ; 
+Also you can obviously compile it from another way but I suppose auto-py-to-exe is the fastest and easiest way.
 
-- [ ] 2. Create a new text file on your desktop
+In case you're a **MAC** or **Linux** user or just not prefere to not compile in an .exe file
 
-- [ ] 3.In the text file type and write (and change/ complete the path, first is for python, 2nd is for layer1.py);
+- [ ] 3. Create a new text file on your desktop
+
+- [ ] 4.a. [WINDOWS] In the text file type and write (and change/ complete the path, first is for python, 2nd is for layer1.py);
 
 "C:\Users\ **YOUR USER NAME** \AppData\Local\Programs\Python\Python310\python.exe" "C:\Users\ **YOUR USER NAME** \Desktop\layer1.py"
 
-- [ ]  4. Rename the file text by layer one.bat then just left-click in and it will run the program.
-Btw you just probably create and run your first batch program.
+- [ ] 4.b Rename the file text by layer one.bat then just left-click in and it will run the program.
+
+- [ ] 5. [MAC & LINUX] sorry but this read me is already too long so
+
+Here is a tutorial for Mac ;
+https://www.folkstalk.com/tech/python-to-mac-executable-with-code-examples/
+
+Here is a tutorial for Linux ;
+https://stackoverflow.com/questions/67235448/execute-python-script-in-console-via-bash-script-with-double-click
 
 
-If these steps are not working, before smashing your screen with your keyboard, you maybe wants to take a look to the noobugs cat.
+
+If these steps are not working, before smashing your screen with your keyboard, you maybe wants to take a look to the noobugs.
 
 ```
 _  _ ____ ____ ___  _  _ ____ ____ 
