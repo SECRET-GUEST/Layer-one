@@ -97,7 +97,7 @@ In case you're a **MAC** or **Linux** user or just not prefere to not compile in
 
 - [ ] 4.b Rename the file text by layer one.bat then just left-click in and it will run the program.
 
-- [ ] 5. [MAC & LINUX] sorry but this read me is already too long so
+- [ ] 5. [MAC & LINUX]
 
 Here is a tutorial for Mac ;
 https://www.folkstalk.com/tech/python-to-mac-executable-with-code-examples/
