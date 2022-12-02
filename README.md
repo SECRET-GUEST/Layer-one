@@ -64,11 +64,14 @@ In case you have a lower version you may have to download module imported not in
 If you want to launch it with python **YOU WILL NEED THE IMAGE SAD.png TO BE IN THE SAME DIRECTORY OF THE SCRIPT**.
 
 Also I made 2 versions, all is described in the name but here's a remember ;
-There is one prepared to be compiled with auto-py-to-exe who can't run, and another "layer1.pyw" you can launch whenever you want.
-The w in pyw is for launch the python script without the CMD but it's still a common python file.
+
+- One prepared to be compiled with auto-py-to-exe who can't run solo (all is explained in the script)
+- "layer1.pyw" ready to launch (if sad.png is in the same directory).
+
+The w in pyw is added to launch the python script without the CMD but it's still a common python file.
 
 
-## 3. Compile yourself the python script (for windows 10) ;
+## 3. Compile yourself the python script ;
 
 **THIS IS A TUTORIAL FOR ABSOLUTE BEGINNER**
 
