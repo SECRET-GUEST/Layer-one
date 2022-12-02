@@ -42,12 +42,12 @@ The most boring issue you may encounter will be the problem of resize / re catch
 
 # TO LAUNCH THE FILE ;
 
-Because this script has no signature it could be detected as a malware so I made 3 versions open-source like that you can check it's safu.
+Because this script has no signature it could be detected as a malware so I made 3 versions who show you it's safu.
 
-You have 4 possibilities ; 
+Now you have 4 possibilities ; 
 
 
-## 1. Launch by click on Layer1.exe
+## 1. Launch by click on Layer1.exe with confidence
 
 The first .exe file is a portable version made for windows 10 with auto-py-to-exe, you can only download this file and launch by click on it .
 
@@ -55,10 +55,10 @@ There is another one .exe in the folder named "Layer 1 exe".
 => You can download the entire folder and click on the Layer1.exe you will find inside.
 It's same version of the portable but you can check what's inside the file for more transparency.
 
-## 2. Launch by Python
+## 2. Launch with Python
 
 "Python script" is directory with the original python script for python 3.10 / 3.11. 
-In case you have a lower version you may have to download pillow/ pywin32 or other module imported not included with your version
+In case you have a lower version you may have to download module imported not included with your version ( pywin32 or maybe PIL ).
 
 If you want to launch it with python **YOU WILL NEED THE IMAGE SAD.png TO BE IN THE SAME DIRECTORY OF THE SCRIPT**.
 
