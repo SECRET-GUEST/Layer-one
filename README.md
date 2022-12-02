@@ -23,14 +23,7 @@ This little tool create a window to load a picture who will overlay everything, 
 Useful for **3D artists** who have to modelize with **layers** on software who are not giving this possibility, like **metahuman** from **unreal engine**, or else.
 Also for pc gamers who would like to reproduce people in game, but also for science, for improving other projects.
 
-Need some rework but it's working now, btw I will NOT make a .exe soon for this one.
-The cause is every anti-malware will considere it like a virus because it could be, but let me explain ;
 
-The probleme come from the possibility of put the layer front of all windows, that also mean it could avoid you to use your desktop blocking the mouse or whatever.
-
-To avoid this problem I have 2 possibility ; pay for a certificate or hack your computer to say it's ok.
-For those reasons I will not make an exe ; it's boring.
-But don't worry you still can launch the program by following the next tutorial (fow windows users);
 
 ```
 ___ _  _ ___ ____ ____ _ ____ _    
@@ -49,13 +42,18 @@ The most boring issue you may encounter will be the problem of resize / re catch
 
 # TO LAUNCH THE FILE ;
 
-You have 3 possibilities ; 
+Because this script has no signature it could be detected as a malware so I made 3 versions open-source like that you can check it's safu.
+
+You have 4 possibilities ; 
 
 
 ## 1. Launch by click on Layer1.exe
 
-The first .exe file is a portable version made for windows 10, you can only download this and launch by click on it .
+The first .exe file is a portable version made for windows 10 with auto-py-to-exe, you can only download this file and launch by click on it .
 
+There is another one .exe in the folder named "Layer 1 exe".
+=> You can download the entire folder and click on the Layer1.exe you will find inside.
+It's same version of the portable but you can check what's inside the file for more transparency.
 
 ## 2. Launch by Python
 
