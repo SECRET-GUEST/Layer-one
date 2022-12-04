@@ -106,11 +106,15 @@ In case you're a **MAC** or **Linux** user or just not prefere to not compile in
 
 If these steps are not working, before smashing your screen with your keyboard, you maybe wants to take a look to the noobugs.
 
+
+
+
 ```
 _  _ ____ ____ ___  _  _ ____ ____ 
 |\ | |  | |  | |__] |  | | __ [__  
 | \| |__| |__| |__] |__| |__] ___] 
  ``` 
+ 
  
 1. To be able to rename in .bat, you have to verify if you can;
 You just have to open any file you want (Document or whatever) then go to display upside of the searchbar then tick the box asking you if you want to see the filename extextension
