@@ -116,7 +116,7 @@ _  _ ____ ____ ___  _  _ ____ ____
  ``` 
  
  
-1. To be able to rename in .bat, you have to verify if you can;
+1. To rename in .bat, you have to verify if you can;
 You just have to open any file you want (Document or whatever) then go to display upside of the searchbar then tick the box asking you if you want to see the filename extextension
 
 ![tuto](https://user-images.githubusercontent.com/92639080/199935818-8d4f9bcf-5eb0-4a0d-9cd5-1eeb11182880.png)
