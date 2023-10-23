@@ -18,7 +18,7 @@ Useful for **3D artists** who have to modelize with **layers** on software who a
 
 Also for pc gamers who would like to reproduce people in game, but also for science, for improving other projects. Or simply to win your pixel war.
 
-I integrated this **overlay** to my **autoclicker** if you're searching for both : https://github.com/SECRET-GUEST/autoclicker
+I've integrated this **overlay** to my **autoclicker** if you're searching for both : https://github.com/SECRET-GUEST/autoclicker
 
 ![Capture d'écran 2023-04-25 041535](https://user-images.githubusercontent.com/92639080/234159185-68400f6f-d277-434b-a6fb-1a1c3efd14b2.png)
 
