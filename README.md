@@ -1,4 +1,3 @@
-[![Download Layer-one](https://img.shields.io/sourceforge/dt/layer1.svg)](https://sourceforge.net/projects/layer1/files/latest/download)
 ```
 ██╗      █████╗ ██╗   ██╗███████╗██████╗      ██████╗ ███╗   ██╗███████╗
 ██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗    ██╔═══██╗████╗  ██║██╔════╝
@@ -6,7 +5,6 @@
 ██║     ██╔══██║  ╚██╔╝  ██╔══╝  ██╔══██╗    ██║   ██║██║╚██╗██║██╔══╝  
 ███████╗██║  ██║   ██║   ███████╗██║  ██║    ╚██████╔╝██║ ╚████║███████╗
 ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝     ╚═════╝ ╚═╝  ╚═══╝╚══════╝
-                                                                        
 ```
 ![version](https://img.shields.io/badge/VERSION-BETA-orange) ![version](https://img.shields.io/badge/PYTHON-3.11-blue) ![version](https://img.shields.io/badge/EXE-WINDOWS-blue)
 
