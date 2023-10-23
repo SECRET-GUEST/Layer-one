@@ -12,7 +12,6 @@
 
 Set an **image**, an **overlay** **top level** **front of all windows** and its the **opacity** / dimension + **clic trough**, in a Python script.
 
-Also here is my video channel ; https://www.youtube.com/watch?v=_85LaeTCtV8&ab_channel=SECRETGUEST
 This little tool create a window to load a picture who will overlay everything, drived by its command's board.
 
 Useful for **3D artists** who have to modelize with **layers** on software who are not giving this possibility, like **metahuman** from **unreal engine**, or else.
